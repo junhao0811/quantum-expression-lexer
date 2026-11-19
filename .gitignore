@@ -1,0 +1,4 @@
+lexers/quantum_lexer
+lexers/*.c
+lexers/y.tab.*
+lexers/*.o
